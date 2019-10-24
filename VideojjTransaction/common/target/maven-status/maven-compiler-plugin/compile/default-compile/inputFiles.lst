@@ -1,0 +1,13 @@
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/util/Task.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/intercept/WebAppConfig.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/aspect/VjTransactionAspect.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/transactional/VjTransactionManager.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/nettyClient/NettyClientHandler.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/transactional/VjTransaction.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/connection/VjConnection.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/nettyClient/NettyClient.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/annotation/VjTransactional.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/transactional/TransactionType.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/intercept/RequestInterceptor.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/util/HttpClient.java
+/Users/videopls/Git/Code/VideojjTransaction/common/src/main/java/com/videojj/vjtransaction/aspect/VjDataSourceAspect.java

@@ -1,0 +1,16 @@
+com/videojj/vjtransaction/aspect/VjDataSourceAspect.class
+com/videojj/vjtransaction/nettyClient/NettyClient$1.class
+com/videojj/vjtransaction/nettyClient/NettyClientHandler.class
+com/videojj/vjtransaction/intercept/RequestInterceptor.class
+com/videojj/vjtransaction/intercept/WebAppConfig.class
+com/videojj/vjtransaction/aspect/VjTransactionAspect.class
+com/videojj/vjtransaction/transactional/TransactionType.class
+com/videojj/vjtransaction/nettyClient/NettyClient.class
+com/videojj/vjtransaction/annotation/VjTransactional.class
+com/videojj/vjtransaction/transactional/VjTransactionManager.class
+com/videojj/vjtransaction/connection/VjConnection$1.class
+com/videojj/vjtransaction/connection/VjConnection$2.class
+com/videojj/vjtransaction/util/HttpClient.class
+com/videojj/vjtransaction/util/Task.class
+com/videojj/vjtransaction/connection/VjConnection.class
+com/videojj/vjtransaction/transactional/VjTransaction.class
